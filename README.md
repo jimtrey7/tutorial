@@ -1,1 +1,1 @@
-# tutorial for setting up an using GitHub
+# tutorial for setting up and using GitHub
